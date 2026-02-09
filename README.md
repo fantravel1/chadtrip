@@ -1,2 +1,0 @@
-# chadtrip
-Expedition-Style Travel
