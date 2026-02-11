@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chadtrip.com/sitemap.xml
+
+# ChadTrip.com - Travel With Context
+# Geography-first expedition guidance for Chad, Africa
